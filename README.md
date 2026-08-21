@@ -1,7 +1,6 @@
 # DPI Engine - Deep Packet Inspection System
 
 ## Table of Contents
-
 1. [What is DPI?](#1-what-is-dpi)
 2. [Networking Background](#2-networking-background)
 3. [Project Overview](#3-project-overview)
